@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th semester\\Game\\Car parking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|D:\\6th semester\\Game\\Car parking\\assets\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|d:\\6th semester\\game\\car parking\\assets\\scripts\\levelstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|d:\\6th semester\\game\\car parking\\assets\\scripts\\detection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\detection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|D:\\6th semester\\Game\\Car parking\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36846A5D-9CF1-6D5A-981A-253A859B30F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelStats.cs",
+              "DocumentMoniker": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\LevelStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelStats.cs",
+              "ToolTip": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\LevelStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:53:23.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detection.cs",
+              "DocumentMoniker": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\Detection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Detection.cs",
+              "ToolTip": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\Detection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Detection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:50:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameplayManager.cs",
+              "DocumentMoniker": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\gameplayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gameplayManager.cs",
+              "ToolTip": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\gameplayManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gameplayManager.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv08AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:46:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mainmenu.cs",
+              "DocumentMoniker": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mainmenu.cs",
+              "ToolTip": "D:\\6th semester\\Game\\Car parking\\Assets\\Scripts\\Mainmenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mainmenu.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAUwHAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:12:29.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
