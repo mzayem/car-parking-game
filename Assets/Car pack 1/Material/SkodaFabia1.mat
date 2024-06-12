@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SkodaFabia1
+  m_Shader: {fileID: 21, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 55eb3ffe66458bb4a811f1b17aa375ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: 7fe1341005cba7843a303682879fd953, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: 7fe1341005cba7843a303682879fd953, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1f3c10630edde014c96b6f547ea6dfcc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RGB:
+        m_Texture: {fileID: 2800000, guid: 55eb3ffe66458bb4a811f1b17aa375ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientPower: 0.7
+    - _DiffusePower: 0.6
+    - _DustValue: 0.97
+    - _EmisiveValue: 0
+    - _EmissionLM: 0
+    - _EmissiveIntensity: 0
+    - _EmissiveValue: 1
+    - _FarValue: 0
+    - _Fresnel: 1.5
+    - _FrezFalloff: 3.928571
+    - _FrezPow: 0.8928571
+    - _Gloss: 0.7
+    - _OccStrength: 1
+    - _Reflection: 0.6785714
+    - _Shininess: 3.470984
+    - _SpecInt: 0.29
+    - _SpecPower: 4
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DustColor: {r: 0.375, g: 0.2097106, b: 0.08272058, a: 1}
+    - _EmisiveColor: {r: 1, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Far: {r: 1, g: 0, b: 0, a: 1}
+    - _ReflectColor: {r: 0.6323529, g: 0.6323529, b: 0.6323529, a: 0.5019608}
+    - _SpecColor: {r: 0.4264706, g: 0.4062284, b: 0.3700259, a: 1}
+    - _node_9258: {r: 0.5, g: 0.5, b: 0.5, a: 1}
